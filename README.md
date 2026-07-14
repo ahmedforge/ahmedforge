@@ -1,7 +1,7 @@
 # Ahmed Forge
 
 ## About Me
-I am a computer scientist passionate about coding and technology.
+I can sit in front of a computer for extended periods of time
 
 ## Currently Working On
 I am working on a web app using React and Node.js.
