@@ -4,15 +4,15 @@
 I can sit in front of a computer for extended periods of time
 
 ## Currently Working On
-I am working on a web app using React and Node.js.
+Just trying to survive day by day in the gloom and doom of AI
 
 ## Currently Learning
-I am learning Python and data structures.
+I am learning backend design
 
 ## Skills
 - JavaScript
 - Python
-- React
+
 
 ## Reach Me
 Email: ahmedali.xhassan@gmail.com
