@@ -19,3 +19,5 @@ Email: ahmedali.xhassan@gmail.com
 
 ## Fun Fact
 I love reading books and watching films in my free time.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedforge)](https://git.io/streak-stats)
