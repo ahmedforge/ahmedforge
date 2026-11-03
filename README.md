@@ -1,6 +1,6 @@
 # Ahmed Ali Hassan
 
-Computer Science student at FAST-NUCES, Peshawar (expected 2028), building full-stack web applications and applied AI tools with Python and React.
+Computer Science student at FAST-NUCES,(expected 2028), building full-stack web applications and applied AI tools with Python and React.
 
 **Open to paid remote internships and junior opportunities in full-stack development and applied AI engineering.** Based in Pakistan.
 
