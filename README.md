@@ -1,8 +1,8 @@
 # Ahmed Ali Hassan
 
-Computer Science student at FAST-NUCES,(expected 2028), building full-stack web applications and applied AI tools with Python and React.
+Computer Science student at FAST-NUCES (expected 2028), building backend and full-stack applications with Python, FastAPI, PostgreSQL, and React.
 
-**Open to paid remote internships and junior opportunities in full-stack development and applied AI engineering.** Based in Pakistan.
+**Open to paid remote backend/full-stack internships, junior developer roles, and clearly scoped contracts.** Based in Pakistan and available to start immediately.
 
 ## Selected work
 
@@ -25,6 +25,6 @@ I focus on making applications usable end to end: frontend behavior, API contrac
 
 ## Contact
 
-[Email](mailto:ahmedali.xhassan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-ali-hassan-6a4/)
+[Email](mailto:ahmedali.xhassan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-ali-hassan911/)
 
 Outside coding, I enjoy books and films.
